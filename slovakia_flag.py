@@ -1,5 +1,3 @@
-# My Full Name: Ryan Goh
-# My Class: 2I
 # Flag of Slovakia
 
 import turtle
